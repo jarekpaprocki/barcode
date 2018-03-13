@@ -17,6 +17,5 @@
         "psr-0": {
             "Milon\\Barcode": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
